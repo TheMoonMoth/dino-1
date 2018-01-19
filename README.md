@@ -23,7 +23,7 @@
 3. Navigate to this folder and run `npm test`.
 
 #### Deployed Link
-
+https://enigmatic-plateau-65401.herokuapp.com/
 
 #### Framework of choice
 React
